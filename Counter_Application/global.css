@@ -1,0 +1,42 @@
+.heading{
+    text-align : center;
+    color : red;
+}
+
+.main{
+    text-align: center;
+}
+
+.count{
+        display:inline-block;
+        font-size:30px;
+        border:2px solid black;
+        width:400px;
+        height:40px;
+        align-content:center;
+        background-color: bisque;
+        font-weight: bold;
+}
+
+.btn{
+    display:inline-block;
+    border-bottom:2px solid black;
+    border-left:2px solid black;
+    border-right:2px solid black;
+     width:400px;
+     height:40px;
+     align-content: center;
+     background-color: bisque;
+}
+
+button{
+    margin: 10px;
+    background-color: white;
+    border-radius: 20px;
+    font-size: 14px;
+}
+
+button:hover{
+    color: white;
+    background-color: grey;
+}
