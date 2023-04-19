@@ -1,0 +1,19 @@
+.mainBlock{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
+
+input{
+    text-align: center;
+    width: 250px;
+    height: 30px;
+}
+
+img{
+    margin-left: -35px;
+    margin-top: 3px;
+    height: 30px;
+    width: 30px;
+}
